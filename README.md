@@ -4,13 +4,14 @@
 
 **Agent-driven engineer.**
 
-I build and tune workflows where coding agents do real work: agent harnesses, custom skills, local image models on a 12 GB GPU — and the automation glue that holds it all together.
+I build and tune workflows where coding agents do real work: agent harnesses, custom skills, local image models — and the automation glue that holds it all together. Recent work: agent-built offline desktop tools — local search, OCR, Electron packaging, smoke tests.
 
 **Built with agents. Tuned by hand.**
 
 - 🤖 Coding agents · agent harnesses · custom skills
-- 🧠 Local models — ComfyUI & Qwen recipes for 12 GB VRAM
-- ⚙️ Automation · Python · Bash · Git
+- 🧠 Local models — ComfyUI & Qwen recipes
+- 🏦 Offline-first desktop tools — Node/Electron, local embeddings & OCR, zero-internet deployments
+- ⚙️ Automation · Python · Bash · Git · Node
 - 🐛 Debugging AI-native stacks down to the CUDA kernels
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,7 +25,7 @@ I build and tune workflows where coding agents do real work: agent harnesses, cu
 
 ### 🔭 Now
 
-- [`qwen-21-field-guide`](https://github.com/MiniBeary/qwen-21-field-guide) — practical notes for running Qwen-Image-2.1 on a 12 GB GPU
+- [`qwen-21-field-guide`](https://github.com/MiniBeary/qwen-21-field-guide) — practical field notes for Qwen-Image-2.1
 - [`comfyui-qwen-int8-fix`](https://github.com/MiniBeary/comfyui-qwen-int8-fix) — one-file workaround for the native int8 kernel crash in ComfyUI ([Comfy-Org/ComfyUI#16443](https://github.com/Comfy-Org/ComfyUI/issues/16443))
 
 <!--
