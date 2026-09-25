@@ -1,3 +1,5 @@
+<img src="assets/banner.jpg" alt="MiniBear banner" width="100%">
+
 ### 👋 Hi, I'm MiniBear — aka `MiniBeary`
 
 **Agent-driven engineer.**
