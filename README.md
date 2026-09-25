@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="MiniBear banner" width="100%">
+<img src="assets/banner.jpg" align="right" alt="MiniBear" width="240">
 
 ### 👋 Hi, I'm MiniBear — aka `MiniBeary`
 
