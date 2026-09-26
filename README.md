@@ -20,18 +20,9 @@ A large part of my repositories is focused on simplifying routine workflows and 
 - 🔍 **AI systems integration & debugging** · from applications and agents to local infrastructure
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/ComfyUI-1A1A1A?style=for-the-badge)
 ![](https://img.shields.io/badge/opencode-2B2D42?style=for-the-badge)
-![](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
 
 [![YouTube](https://img.shields.io/badge/YouTube-@minibear1152-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minibear1152)
-
-### 🔭 Now
-
-- [`qwen-21-field-guide`](https://github.com/MiniBeary/qwen-21-field-guide) — practical field notes for Qwen-Image-2.1
-- [`comfyui-qwen-int8-fix`](https://github.com/MiniBeary/comfyui-qwen-int8-fix) — one-file workaround for the native int8 kernel crash in ComfyUI ([Comfy-Org/ComfyUI#16443](https://github.com/Comfy-Org/ComfyUI/issues/16443))
 
 <!--
 ### 🌤️ Outside the terminal
