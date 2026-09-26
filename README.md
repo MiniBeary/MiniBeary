@@ -1,4 +1,6 @@
-<img src="assets/banner.jpg" align="right" alt="MiniBear" width="240">
+<table>
+  <tr>
+    <td valign="top">
 
 # Hi 👋
 
@@ -12,12 +14,19 @@ A large part of my repositories is focused on simplifying routine workflows and 
 
 **Automated by agents. Refined by hand.**
 
-- 🤖 **Agent-driven development** · AI agents · agent tooling · custom skills
-- 🧠 **Local AI** · local models · inference · AI workflow integration
-- 🖥️ **Desktop tools** · offline-first applications · local data processing · OCR
-- ⚙️ **Automation** · scripting · integrations · CLI tools · workflow optimization
-- 🛠️ **Developer tools** · utilities that reduce repetitive work and improve day-to-day development
+- 🤖 **Agent-driven development** · AI agents · agent tooling · custom skills  
+- 🧠 **Local AI** · local models · inference · AI workflow integration  
+- 🖥️ **Desktop tools** · offline-first applications · local data processing · OCR  
+- ⚙️ **Automation** · scripting · integrations · CLI tools · workflow optimization  
+- 🛠️ **Developer tools** · utilities that reduce repetitive work and improve day-to-day development  
 - 🔍 **AI systems integration & debugging** · from applications and agents to local infrastructure
+
+    </td>
+    <td valign="top">
+      <img src="assets/banner.jpg" alt="MiniBear" width="240">
+    </td>
+  </tr>
+</table>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
