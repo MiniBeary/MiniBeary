@@ -1,8 +1,8 @@
 <img src="assets/banner.jpg" align="right" alt="MiniBear" width="240">
 
-# Hi 👋
-
 <br clear="right"/>
+
+# Hi 👋
 
 I work on **agent-driven engineering** and build tools that automate everyday work.
 
