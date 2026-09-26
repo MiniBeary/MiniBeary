@@ -1,18 +1,23 @@
 <img src="assets/banner.jpg" align="right" alt="MiniBear" width="240">
 
-### 👋 Hi, I'm MiniBear
+# Hi 👋
 
-**Agent-driven engineer.**
+I work on **agent-driven engineering** and build tools that automate everyday work.
 
-I build and tune workflows where coding agents do real work: agent harnesses, custom skills, local image models — and the automation glue that holds it all together. Recent work: agent-built offline desktop tools — local search, OCR, Electron packaging, smoke tests.
+In my projects, I pay particular attention to **speed, usability, and simplicity**. Good software should remove friction and reduce repetitive work, not create another layer of it.
 
-**Built with agents. Tuned by hand.**
+Most of my projects are built with **JavaScript, TypeScript, and Python**.
 
-- 🤖 Coding agents · agent harnesses · custom skills
-- 🧠 Local models — ComfyUI & Qwen recipes
-- 🏦 Offline-first desktop tools — Node/Electron, local embeddings & OCR, zero-internet deployments
-- ⚙️ Automation · Python · Bash · Git · Node
-- 🐛 Debugging AI-native stacks down to the CUDA kernels
+A large part of my repositories is focused on simplifying routine workflows and eliminating the small but persistent inconveniences developers deal with every day.
+
+**Automated by agents. Refined by hand.**
+
+- 🤖 **Agent-driven development** · AI agents · agent tooling · custom skills
+- 🧠 **Local AI** · local models · inference · AI workflow integration
+- 🖥️ **Desktop tools** · offline-first applications · local data processing · OCR
+- ⚙️ **Automation** · scripting · integrations · CLI tools · workflow optimization
+- 🛠️ **Developer tools** · utilities that reduce repetitive work and improve day-to-day development
+- 🔍 **AI systems integration & debugging** · from applications and agents to local infrastructure
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
