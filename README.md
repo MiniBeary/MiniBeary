@@ -10,8 +10,6 @@ Most of my projects are built with **JavaScript, TypeScript, and Python**.
 
 A large part of my repositories is focused on simplifying routine workflows and eliminating the small but persistent inconveniences developers deal with every day.
 
-<img src="assets/banner.jpg" align="right" alt="MiniBear" width="240">
-
 **Automated by agents. Refined by hand.**
 
 - 🤖 **Agent-driven development** · AI agents · agent tooling · custom skills
