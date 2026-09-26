@@ -4,6 +4,8 @@ I work on **agent-driven engineering** and build tools that automate everyday wo
 
 In my projects, I pay particular attention to **speed, usability, and simplicity**. Good software should remove friction and reduce repetitive work, not create another layer of it.
 
+<img src="assets/banner.jpg" align="right" alt="MiniBear" width="240">
+
 Most of my projects are built with **JavaScript, TypeScript, and Python**.
 
 A large part of my repositories is focused on simplifying routine workflows and eliminating the small but persistent inconveniences developers deal with every day.
